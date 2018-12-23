@@ -82,14 +82,7 @@
 
         <!-- All JavaScript Files
         ================================================== -->
-        <script src="js/jquery-3.2.1.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery.mixitup.min.js"></script>
-        <script src="js/jquery.fancybox.min.js"></script>
-        <script src="js/owl.carousel.js"></script>
-        <script src="js/typed.min.js"></script>
-        <script src="js/menu.js"></script>
-        <script src="js/custom.js"></script>
+        
 
     </body>
     <?php wp_footer(); ?>

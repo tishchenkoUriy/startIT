@@ -15,7 +15,7 @@
         <link href="images/favicon.png" rel="shortcut icon" type="image/png">
 
         <!-- Lead Style -->
-        <link href="css/style.css" rel="stylesheet" type="text/css">
+
 <?php wp_head(); ?>
     </head>
 
